@@ -2,7 +2,7 @@
 
 # Deep Learning for Music (DL4M) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-By [Yann Bayle](http://yannbayle.fr/english/index.php) ([Website](http://yannbayle.fr/english/index.php), [GitHub](https://github.com/ybayle)) from LaBRI ([Website](http://www.labri.fr/), [Twitter](https://twitter.com/labriOfficial/)), Univ. Bordeaux ([Website](https://www.u-bordeaux.fr/), [Twitter](https://twitter.com/univbordeaux)), CNRS ([Website](http://www.cnrs.fr/), [Twitter](https://twitter.com/CNRS)) and SCRIME ([Website](https://scrime.u-bordeaux.fr/)).
+By [Gupta Aman].
 
 **TL;DR** Non-exhaustive list of scientific articles on deep learning for music: [summary](#dl4m-summary) (Article title, pdf link and code), [details](dl4m.tsv) (table - more info), [details](dl4m.bib) (bib - all info)
 
@@ -198,7 +198,6 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2019 | [Enabling factorized piano music modeling and generation with the MAESTRO dataset](https://arxiv.org/abs/1810.12247) | [GitHub](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription) |
 | 2019 | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf) | [GitHub](https://github.com/openai/sparse_attention) |
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## DL4M details
 
@@ -223,8 +222,6 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 - `note` - Additional notes and information
 - `repro` - Indication to what extent the experiments are reproducible
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
-
 ## Code without articles
 
 - [Audio Classifier in Keras using Convolutional Neural Network](https://github.com/drscotthawley/audio-classifier-keras-cnn)
@@ -240,7 +237,6 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 - [Composing music using neural nets](https://github.com/fephsun/neuralnetmusic)
 - [Performance-RNN-PyTorch](https://github.com/djosix/Performance-RNN-PyTorch)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Statistics and visualisations
 
@@ -264,8 +260,6 @@ Frameworks pie chart:
 - Only 45 articles (27%) provide their source code.
 Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
-
 ## Advices for reviewers of dl4m articles
 
 Please refer to the [advice_review.md](advice_review.md) file.
@@ -275,7 +269,6 @@ Please refer to the [advice_review.md](advice_review.md) file.
 Contributions are welcome!
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## FAQ
 
@@ -291,19 +284,14 @@ I want to have exhaustive research and the latest news on DL4M. However, one sho
 
 The list provided here does not guarantee the quality of the articles. You should either try to reproduce the experiments described or submit a request to [ReScience](https://github.com/ReScience/ReScience). Use one article's conclusion at your own risks.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
-
 ## Acronyms used
 
 A list of useful acronyms used in deep learning and music is stored in [acronyms.md](acronyms.md).
-
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Sources
 
 The list of conferences, journals and aggregators used to gather the proposed materials is stored in [sources.md](sources.md). 
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Contributors
 
@@ -317,7 +305,6 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [Devin Walters](https://github.com/devn)
 - https://github.com/LegendJ
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Other useful related lists and resources
 
@@ -344,7 +331,6 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [Auditory Scene Analysis](https://mitpress.mit.edu/books/auditory-scene-analysis) - Book about the perceptual organization of sound by [Albert Bregman](https://en.wikipedia.org/wiki/Albert_Bregman), the "father of [Auditory Scene Analysis](https://en.wikipedia.org/wiki/Auditory_scene_analysis)".
   - [Demonstrations of Auditory Scene Analysis](http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm) - Audio demonstrations, which illustrate examples of auditory perceptual organization.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 #### Music datasets
 
@@ -355,7 +341,6 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome music listening](https://github.com/ybayle/awesome-music-listening)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 #### Deep learning
 
@@ -386,7 +371,6 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [Battle of the Deep Learning frameworks](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750) - DL frameworks comparison and evolution
 - [Black-box optimization](http://timvieira.github.io/blog/post/2018/03/16/black-box-optimization/) - There are other optimization algorithms than just gradient descent
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Cited by
 
@@ -398,7 +382,6 @@ If you use the information contained in this repository, please let us know! Thi
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [AINewsFeed](https://twitter.com/AINewsFeed/status/897832912351105025)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## License
 
@@ -411,4 +394,3 @@ This project use another projects and you may refer to them for appropriate lice
 - [Matplotlib](https://matplotlib.org/) - To plot nice figures.
 - [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - To deal with the bib entries.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
