@@ -2,7 +2,7 @@
 
 Contributions are welcome!
 Please submit you issues, pull requests, improvements and comments in British English.
-You can look  at the issues and help to solve them or you can add some missing articles as described below.
+You can look at the issues and help to solve them or you can add some missing articles as described below.
    
 ### Adding an article
 
