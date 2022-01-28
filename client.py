@@ -2,7 +2,7 @@ import os
 import requests
 import urllib
  
-   
+    
 class Downloader(object):
     def __init__(self, dirname, timeout=5.0):
         self.dirname = dirname 
