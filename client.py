@@ -17,3 +17,4 @@ class Downloader(object):
             with open(os.path.join(self.dirname, paper['name']), 'wb') as f:
                 f.write(r.content)
  
+ 
