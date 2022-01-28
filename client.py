@@ -11,7 +11,7 @@ class Downloader(object):
     def client(self, paper): 
         # For now, HTTPS is not supported   
         query = paper['link'].replace('https', 'http')
-        r = requests.get(query, stream=True, timeout=self.timeout)
+        r = requests.get(query, stream=True, timeout=self.timeout) 
         if r.status_code == 200:
             # Successful connection
             with open(os.path.join(self.dirname, paper['name']), 'wb') as f:
