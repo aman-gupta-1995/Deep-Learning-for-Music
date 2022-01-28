@@ -8,7 +8,7 @@ class Downloader(object):
         self.dirname = dirname 
         self.timeout = timeout 
    
-    def client(self, paper):
+    def client(self, paper): 
         # For now, HTTPS is not supported 
         query = paper['link'].replace('https', 'http')
         r = requests.get(query, stream=True, timeout=self.timeout)
