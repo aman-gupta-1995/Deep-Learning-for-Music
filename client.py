@@ -5,7 +5,7 @@ import urllib
     
 class Downloader(object):
     def __init__(self, dirname, timeout=5.0):
-        self.dirname = dirname 
+        self.dirname = dirname  
         self.timeout = timeout 
     
     def client(self, paper): 
