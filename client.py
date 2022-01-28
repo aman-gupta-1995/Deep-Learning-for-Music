@@ -9,7 +9,7 @@ class Downloader(object):
         self.timeout = timeout   
      
     def client(self, paper): 
-        # For now, HTTPS is not supported  
+        # For now, HTTPS is not supported   
         query = paper['link'].replace('https', 'http')
         r = requests.get(query, stream=True, timeout=self.timeout)
         if r.status_code == 200:
