@@ -4,7 +4,7 @@ import urllib
       
        
 class Downloader(object):      
-    def __init__(self, dirname, timeout=5.0):   
+    def __init__(self, dirname, timeout=5.0):    
         self.dirname = dirname      
         self.timeout = timeout   
     
