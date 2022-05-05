@@ -5,7 +5,7 @@ A list of useful acronyms used in deep learning and music sorted alphabetically.
 | Acronym | Full name | 
 |--------------|-----------| 
 | ADT | Automatic Drum Transcription |
-| AE | AutoEncoder |
+| AE | AutoEncoder | 
 | AMT | Automatic Music Transcription | 
 | ANN | Artificial Neural Network | 
 | ARNN | Anticipation Recurrent Neural Network |
