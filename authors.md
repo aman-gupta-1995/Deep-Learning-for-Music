@@ -6,7 +6,7 @@
 - Arzt, Andreas
 - Badeau, Roland
 - Bammer, Roswitha 
-- Barbieri, Francesco
+- Barbieri, Francesco 
 - Bazzica, Alessio
 - Bello, Juan Pablo
 - Ben-Tal, Oded 
