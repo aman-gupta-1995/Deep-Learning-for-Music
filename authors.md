@@ -9,7 +9,7 @@
 - Barbieri, Francesco
 - Bazzica, Alessio
 - Bello, Juan Pablo
-- Ben-Tal, Oded
+- Ben-Tal, Oded 
 - Benetos, Emmanouil
 - Bengio, Yoshua
 - Berdahl, E
