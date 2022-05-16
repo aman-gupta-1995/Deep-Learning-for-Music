@@ -1,6 +1,6 @@
 # List of publications type
    
-### Journals:
+### Journals: 
 
 - [Applied Sciences](http://www.mdpi.com/journal/applsci)
 - [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)
