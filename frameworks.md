@@ -7,7 +7,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - Keras-TensorFlow
 - Keras-Theano
 - No
-- Not disclosed
+- Not disclosed 
 - PyTorch
 - Tensorflow
 - Theano
