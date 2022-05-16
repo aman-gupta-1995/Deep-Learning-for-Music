@@ -8,7 +8,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - Boundary detection
 - Chord recognition
 - Comparison
-- Composition
+- Composition 
 - DCASE 2016 Task 4 Domestic audio tagging
 - Event recognition
 - F0
