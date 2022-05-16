@@ -6,7 +6,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - Audio generation
 - Beat detection
 - Boundary detection 
-- Chord recognition
+- Chord recognition 
 - Comparison
 - Composition  
 - DCASE 2016 Task 4 Domestic audio tagging 
