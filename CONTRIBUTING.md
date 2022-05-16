@@ -9,7 +9,7 @@ You can look at the issues and help to solve them or you can add some missing ar
 Here are the steps to follow for adding one (or multiple) article:
 1. Check that the article is not already in the [dl4m.bib](dl4m.bib) file. 
 2. Fork the repo.
-3. Add the desired bib entry at the beginning of [dl4m.bib](dl4m.bib). Take care to fill all this field for each bib entry (if there is no information about a field please indicate it as `fieldName = {No}`):
+3. Add the desired bib entry at the beginning of [dl4m.bib](dl4m.bib). Take care to fill all this  field for each bib entry (if there is no information about a field please indicate it as `fieldName = {No}`):
     - Bib entry type (inproceedings, article, techreport, unpublished,...) (N.B.: Indicate arxiv article as @unpublished and if you know of a possible submission use `note = {Submitted to "NameOfJournalOrConference"}`)
     - Bib key (in the form AuthorlastnameYear, e.g. `Snow1999`
     - title (N.B.: Make sure the title is not written in all caps and that each word does not start with a capital letter.)
