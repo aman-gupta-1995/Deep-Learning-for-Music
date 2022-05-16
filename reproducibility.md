@@ -2,7 +2,7 @@
   
 Out of the 159 papers listed in this repository, only 41 articles provide their source code.
 Repeatability is the key to good science.  
-Below is a list of useful links for reproducibility and replicability in Science:
+Below is a list of useful links for reproducibility and replicability in Science: 
 
 - [DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers](https://arxiv.org/abs/1711.03543)
 - [Audio Processing Seminar 2016: Reproducible Research](https://github.com/audiolabs/APSRR-2016)
