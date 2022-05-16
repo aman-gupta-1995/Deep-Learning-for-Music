@@ -6,7 +6,7 @@ The list of website used to gather the proposed materials:
 - [Conferences](#conferences)
 - [Workshops](#workshops)   
 - [Aggregators](#aggregators)
-
+ 
 ## Journals 
 
 - [Applied Sciences Special Issue on Sound and Music Computing](http://www.mdpi.com/journal/applsci/special_issues/Music_Computing)
