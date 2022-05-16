@@ -5,7 +5,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - Artist recognition
 - Audio generation
 - Beat detection
-- Boundary detection
+- Boundary detection 
 - Chord recognition
 - Comparison
 - Composition  
