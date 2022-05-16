@@ -6,7 +6,7 @@
 - [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)
 - [Circuits and Systems](http://www.scirp.org/journal/cs/)
 - [Computer Music Journal](http://computermusicjournal.org/)
-- [Connection Science](http://www.tandfonline.com/toc/ccos20/current)
+- [Connection Science](http://www.tandfonline.com/to c/ccos20/current)
 - [IEEE Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/ieee-signal-processing-letters)
 - [IEEE Transactions on Multimedia](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
 - [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing/ieeeacm)
