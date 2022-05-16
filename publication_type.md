@@ -1,5 +1,5 @@
 # List of publications type
-
+ 
 ### Journals:
 
 - [Applied Sciences](http://www.mdpi.com/journal/applsci)
