@@ -11,7 +11,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - CLNN
 - CNN
 - CRNN
-- ConvNet
+- ConvNet 
 - DAE
 - DBN
 - DNN
