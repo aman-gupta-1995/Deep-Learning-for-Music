@@ -78,7 +78,7 @@ def main(args):
         pool.close() 
         pool.join()
     print('')
-    print('Download is now complete')
+    print('Download is now complete') 
 
 
 if __name__ == '__main__':
