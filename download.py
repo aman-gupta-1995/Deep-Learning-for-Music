@@ -3,7 +3,7 @@ import os
 import re
 import multiprocessing as mp
 
-from tqdm import tqdm
+from tqdm import tqdm 
  
 from client import Downloader 
 from dl4m import *
