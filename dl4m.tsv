@@ -1,5 +1,5 @@
 Year	Entrytype	Title	Author	Link	Code	Task	Reproducible	Dataset	Framework	Architecture	Dropout	Batch	Epochs	Dataaugmentation	Input	Dimension	Activation	Loss	Learningrate	Optimizer	Gpu	
-1988	inproceedings	Neural net modeling of music	Bharucha, J.											 								
+1988	inproceedings	Neural net modeling of music	Bharucha, J.											 	 							
 1988	inproceedings	Creation by refinement: A creativity paradigm for gradient descent learning networks	Lewis, J. P.	http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=23933																		
 1988	inproceedings	A sequential network design for musical applications	Todd, Peter M.			Composition								 								
 1989	article	The representation of pitch in a neural net model of chord classification	Laden, Bernice and Keefe, Douglas H.	http://www.jstor.org/stable/3679550		Chord recognition																
