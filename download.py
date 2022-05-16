@@ -75,7 +75,7 @@ def main(args):
         pool = mp.Pool(mp.cpu_count())
         for i in range(len(data)):
             pool.apply_async(downloader.client, args=(data[i],), callback=update_pbar)
-        pool.close()
+        pool.close() 
         pool.join()
     print('')
     print('Download is now complete')
