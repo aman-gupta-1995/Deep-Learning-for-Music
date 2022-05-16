@@ -5,7 +5,7 @@ Regarding conflicts of interest, confidentiality, anonymity, ethical guidelines,
 - [ISMIR 2017](https://ismir2017.smcnus.org/guidelines-for-reviewers/)
    
 For technical guidelines on deep learning and music you can use this humble following advices. 
-Check for completeness of details about:
+Check for completeness of details about: 
 
 - **Music aspects**
   - datasets used, please refer to [datasets.md](https://github.com/ybayle/awesome-deep-learning-music/blob/master/datasets.md)
