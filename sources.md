@@ -3,7 +3,7 @@
 The list of website used to gather the proposed materials:
 
 - [Journals](#journals)
-- [Conferences](#conferences)
+- [Conferences](#conferences) 
 - [Workshops](#workshops)   
 - [Aggregators](#aggregators)
  
