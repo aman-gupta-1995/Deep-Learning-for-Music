@@ -6,7 +6,7 @@ import urllib
 class Downloader(object):   
     def __init__(self, dirname, timeout=5.0):    
         self.dirname = dirname   
-        self.timeout = timeout 
+        self.timeout = timeout
      
     def client(self, paper): 
         # For now, HTTPS is not supported   
