@@ -7,7 +7,7 @@ Regarding conflicts of interest, confidentiality, anonymity, ethical guidelines,
 For technical guidelines on deep learning and music you can use this humble following advices.   
 Check for completeness of details about: 
 
-- **Music aspects**
+- **Music aspects** 
   - datasets used, please refer to [datasets.md](https://github.com/ybayle/awesome-deep-learning-music/blob/master/datasets.md)
   - data augmentation (Pitch shift, Time-stretch, Mixing, Circular shift, Noise addition, Filter, Dropout, ...)
   - input type (Raw signal, Time-frequency representation, ...)
