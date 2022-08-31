@@ -4,7 +4,7 @@ Contributions are welcome!
 Please submit you issues, pull requests, improvements and comments in British English.
 You can look at the issues and help to solve them or you can add some missing articles as described below.
 
-### Adding an article 
+### Adding an article  
  
 Here are the steps to follow for adding one (or multiple) article:
 1. Check that the article is not already in the [dl4m.bib](dl4m.bib) file. 
