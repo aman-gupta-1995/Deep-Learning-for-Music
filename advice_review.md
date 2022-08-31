@@ -4,7 +4,7 @@ Regarding conflicts of interest, confidentiality, anonymity, ethical guidelines,
 - [ISMIR 2016](https://wp.nyu.edu/ismir2016/call-for-participation/guidelines-for-reviewers/)   
 - [ISMIR 2017](https://ismir2017.smcnus.org/guidelines-for-reviewers/) 
    
-For technical guidelines on deep learning and music you can use this humble following advices. 
+For technical guidelines on deep learning and music you can use this humble following advices.  
 Check for completeness of details about: 
 
 - **Music aspects**
