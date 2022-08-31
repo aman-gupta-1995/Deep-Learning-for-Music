@@ -2,7 +2,7 @@
 
 Regarding conflicts of interest, confidentiality, anonymity, ethical guidelines, commitment, respect and scheduling please refer to the guidelines provided by the MIR community on the dedicated conference websites:
 - [ISMIR 2016](https://wp.nyu.edu/ismir2016/call-for-participation/guidelines-for-reviewers/)  
-- [ISMIR 2017](https://ismir2017.smcnus.org/guidelines-for-reviewers/)
+- [ISMIR 2017](https://ismir2017.smcnus.org/guidelines-for-reviewers/) 
    
 For technical guidelines on deep learning and music you can use this humble following advices. 
 Check for completeness of details about: 
