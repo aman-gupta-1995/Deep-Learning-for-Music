@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-#!/usr/bin/python
-#
-# Authors   Yann Bayle
-# E-mails   bayle.yann@live.fr
-# License   MIT
-# Created   16/08/2017  
-# Updated   23/03/2018
-# Version   1.0.1 
-# 
+
  
 """
 Description of dl4m.py
